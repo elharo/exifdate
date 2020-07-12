@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.elharo.exifdate;
 
 import static org.junit.Assert.assertTrue;
 
